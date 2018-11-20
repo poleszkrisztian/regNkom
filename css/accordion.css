@@ -1,0 +1,23 @@
+.accordionPanel {
+    width: 100%;
+    float: left;
+}
+
+.accordionLabel {
+    width: 98%;
+    background: linear-gradient(#660000, #000000);
+    color: white;
+    padding: 1%;
+    margin-bottom: 1px;
+    cursor: pointer;
+    float: left;
+}
+
+.accordionContent {
+    background: silver;
+    width: 98%;
+    padding: 1%;
+    padding-bottom: 12px;
+    line-height: 150%;
+    float: left;
+}

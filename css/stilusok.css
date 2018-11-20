@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: brown;
+    font-family: arial;
+}
+
+#container {
+    width: 90%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
